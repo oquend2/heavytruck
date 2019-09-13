@@ -1,0 +1,17 @@
+header div {
+    background-color: #08083a;
+    text-align: center;
+    color: blue;
+}
+
+#id_acercad{
+   top: 1px;
+}
+.page-footer{
+    display: flex;   
+    min-height: 5vh;
+    bottom: 0%;
+    flex-direction: column;
+    flex: 1 0 auto;
+  }
+ 
